@@ -12,7 +12,7 @@
 - 🌓 Dark/Light Theme
 
 ## 🚀 Live Demo
-[https://तुमचं-username.github.io/medicore-platform/](https://तुमचं-username.github.io/medicore-platform/)
+[https://तुमचं-username.github.io/medicore-platform/](https://iamyugandharnerkar.github.io/medicore-platform/)
 
 ## 📱 Technologies Used
 - HTML5
