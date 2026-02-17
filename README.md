@@ -21,9 +21,3 @@
 - Leaflet Maps
 - Chart.js
 - Simple Peer (WebRTC)
-
-## 📸 Screenshots
-(तुम्ही screenshots घालू शकता)
-
-## 🔧 How to Run Locally
-1. Clone the repository
